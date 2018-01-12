@@ -1,0 +1,3 @@
+[submodule "sub_git_test"]
+	path = sub_git_test
+	url = https://github.com/forevercqd/sub_git_test.git
